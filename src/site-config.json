@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Reli Electric",
+    "phone": "+16146268527",
+    "category": "electrical contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Reli Electric: Powering Columbus",
+      "heroSubline": "Reliable electrical services for homes and businesses across Central Ohio. From historic German Village to modern Short North condos, we've got you covered.",
+      "aboutTitle": "Columbus' Trusted Electrical Experts",
+      "aboutText": [
+        "Reli Electric was founded over a decade ago right here in Columbus. We saw a need for an electrical contractor that understood the unique challenges of Central Ohio homes – from the aging infrastructure of German Village to the demands of modern construction in Dublin.",
+        "Our approach is simple: provide honest, reliable service with a focus on quality workmanship and customer satisfaction. We're not just electricians; we're problem solvers. We diagnose issues quickly, explain your options clearly, and get the job done right the first time.",
+        "We're proud to be a part of the Columbus community. We support local schools and charities, and we're committed to providing sustainable electrical solutions that benefit our environment. When you choose Reli Electric, you're choosing a neighbor who cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is comprised of licensed and experienced electricians who stay up-to-date on the latest technologies and safety standards."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent situations."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique electrical needs of Columbus homes, from older wiring to modern smart home systems."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Contact Reli Electric for reliable and affordable electrical services in Columbus and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's electrical system can handle today's power demands.",
+        "description": "Is your electrical panel outdated or struggling to keep up with your family's power needs? Many older Columbus homes, particularly in areas like Clintonville and German Village, still have outdated electrical panels that were not designed for modern appliances and technology. Reli Electric specializes in electrical panel upgrades and replacements, ensuring your home's electrical system is safe, reliable, and capable of handling the demands of today's power-hungry devices.\n\nWe'll assess your current electrical panel, determine the appropriate size and capacity for your home, and install a new, code-compliant panel that meets all your electrical needs. We handle everything from obtaining permits to disposing of your old panel safely. Don't risk overloading your electrical system – upgrade to a modern panel and enjoy peace of mind knowing your home is protected.\n\nUpgrade your electrical panel with Reli Electric and experience the difference. We'll ensure your home is ready for the future, with a reliable electrical system that can handle all your power needs.",
+        "process": [
+          "Step 1: Assess your current electrical panel and electrical needs.",
+          "Step 2: Provide a detailed estimate for the panel upgrade or replacement.",
+          "Step 3: Obtain necessary permits and schedule the installation.",
+          "Step 4: Install the new electrical panel and ensure it meets all safety codes."
+        ],
+        "benefits": [
+          "Increased safety and reliability",
+          "Accommodate modern appliances and technology",
+          "Prevent electrical overloads",
+          "Improve home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripped breakers, flickering lights, and difficulty running multiple appliances at once. If you're experiencing any of these issues, it's time to call Reli Electric."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The installation process typically takes one day, but it can vary depending on the complexity of the job. We'll provide a more accurate timeline during the estimate."
+          },
+          {
+            "question": "Is it safe to attempt an electrical panel upgrade myself?",
+            "answer": "Absolutely not. Electrical work is dangerous and should only be performed by a licensed and qualified electrician. Contact Reli Electric for safe and reliable panel upgrades."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-rewiring",
+        "name": "Whole-House Rewiring",
+        "shortDescription": "Replace outdated or damaged wiring for a safer and more efficient home.",
+        "description": "Older homes in neighborhoods like German Village and Upper Arlington often have outdated wiring that can be a fire hazard. If your home was built before the 1970s, it may have aluminum wiring or deteriorated insulation, both of which can pose significant safety risks. Reli Electric specializes in whole-house rewiring, replacing old and unsafe wiring with modern, code-compliant materials.\n\nOur experienced electricians will carefully remove the old wiring and install new copper wiring throughout your home, ensuring a safe and reliable electrical system. We'll also upgrade your outlets, switches, and other electrical components to meet current safety standards. Protect your family and your home with whole-house rewiring from Reli Electric.\n\nWe understand the disruption that rewiring can cause, which is why we work efficiently and respectfully to minimize the impact on your daily life. Our team takes pride in leaving your home clean and tidy after the job is complete so you can enjoy the peace of mind that comes with a safe and up-to-date electrical system.",
+        "process": [
+          "Step 1: Conduct a thorough inspection of your existing wiring.",
+          "Step 2: Develop a comprehensive rewiring plan that meets your needs.",
+          "Step 3: Carefully remove old wiring and install new copper wiring.",
+          "Step 4: Test and inspect the new wiring to ensure it meets all safety codes."
+        ],
+        "benefits": [
+          "Improved safety and reduced fire risk",
+          "Increased electrical capacity",
+          "Eliminate flickering lights and other electrical problems",
+          "Increase home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home needs rewiring?",
+            "answer": "Signs include frequent electrical problems, such as flickering lights, tripped breakers, and warm outlets. If your home is over 50 years old, it's a good idea to have your wiring inspected."
+          },
+          {
+            "question": "How long does whole-house rewiring take?",
+            "answer": "The duration of the project depends on the size and complexity of your home, but it typically takes several days to a week."
+          },
+          {
+            "question": "Will rewiring damage my walls or ceilings?",
+            "answer": "We take great care to minimize damage during the rewiring process. We'll patch any holes or openings and leave your home looking as good as new."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home's ambiance and functionality with professional lighting installation.",
+        "description": "From recessed lighting in your kitchen to landscape lighting in your garden, Reli Electric can handle all your lighting installation needs. We work with a variety of lighting styles and technologies, including LED lighting, smart lighting systems, and energy-efficient fixtures. Whether you're looking to update your home's interior or enhance its curb appeal, we can help you create the perfect lighting design.\n\nWe understand the importance of proper lighting for both aesthetics and functionality. Our experienced electricians will work with you to choose the right fixtures and placement to create the desired effect. We'll also ensure that your lighting is installed safely and efficiently, meeting all electrical codes and standards.\n\nReli Electric provides lighting solutions for the diverse architectural styles found throughout Columbus, whether it's bringing out the charm of a Tudor in Upper Arlington, or installing modern fixtures in a Short North condo.",
+        "process": [
+          "Step 1: Discuss your lighting goals and preferences.",
+          "Step 2: Develop a lighting design that meets your needs and budget.",
+          "Step 3: Install the new lighting fixtures and wiring.",
+          "Step 4: Test and inspect the lighting to ensure it's working properly."
+        ],
+        "benefits": [
+          "Improved aesthetics and ambiance",
+          "Increased energy efficiency",
+          "Enhanced security and safety",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional incandescent bulbs. It can also save you money on your energy bills."
+          },
+          {
+            "question": "Can you install smart lighting systems?",
+            "answer": "Yes, we specialize in smart lighting systems that allow you to control your lights remotely with your smartphone or voice assistant."
+          },
+          {
+            "question": "Do I need a permit for lighting installation?",
+            "answer": "In some cases, a permit may be required for lighting installation. We'll handle all the necessary paperwork and ensure that your project meets all local codes and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Reliable repairs for faulty outlets and switches, ensuring your electrical system is safe.",
+        "description": "Faulty outlets and switches can be a nuisance and a safety hazard. If you have outlets that aren't working, switches that are broken, or outlets that feel warm to the touch, it's time to call Reli Electric. We provide fast and reliable outlet and switch repair services throughout Columbus and surrounding areas.\n\nOur experienced electricians can diagnose and repair a wide range of outlet and switch problems, from loose connections to damaged wiring. We use only high-quality replacement parts and ensure that all repairs are done to code. Don't risk electrical shock or fire – call Reli Electric for safe and reliable outlet and switch repairs.\n\nWhether you're dealing with an outdated outlet in a historic German Village home or a damaged switch in a modern Westerville residence, Reli Electric has the expertise to resolve your electrical issues promptly and professionally.",
+        "process": [
+          "Step 1: Diagnose the problem with the outlet or switch.",
+          "Step 2: Provide a detailed estimate for the repair.",
+          "Step 3: Repair or replace the faulty outlet or switch.",
+          "Step 4: Test the outlet or switch to ensure it's working properly."
+        ],
+        "benefits": [
+          "Improved safety and reduced risk of electrical shock",
+          "Restored functionality of outlets and switches",
+          "Prevention of further electrical damage",
+          "Peace of mind knowing your electrical system is safe"
+        ],
+        "faq": [
+          {
+            "question": "Why is my outlet not working?",
+            "answer": "There could be several reasons why your outlet isn't working, including a tripped breaker, a loose connection, or a damaged outlet. Our electricians can quickly diagnose the problem and provide a solution."
+          },
+          {
+            "question": "Is it safe to repair an outlet myself?",
+            "answer": "No, electrical work is dangerous and should only be performed by a licensed and qualified electrician. Contact Reli Electric for safe and reliable outlet repairs."
+          },
+          {
+            "question": "How much does it cost to repair an outlet or switch?",
+            "answer": "The cost of repair depends on the nature of the problem and the type of outlet or switch. We'll provide a detailed estimate before any work begins."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Comprehensive electrical inspections to identify potential hazards and ensure code compliance.",
+        "description": "Whether you're buying a new home, renovating an existing one, or simply want to ensure the safety of your electrical system, Reli Electric provides thorough electrical inspections throughout Columbus, OH. Our experienced electricians will carefully examine your wiring, outlets, switches, electrical panel, and other electrical components to identify any potential hazards or code violations.\n\nWe'll provide you with a detailed report outlining our findings and recommendations for repairs or upgrades. Protect your family and your property with a comprehensive electrical inspection from Reli Electric. We are familiar with the unique electrical challenges posed by Columbus' older housing stock and seasonal weather changes.\n\nFrom identifying potential issues in the historic homes of German Village to ensuring compliance in the newer developments of Dublin, Reli Electric's inspection services are tailored to meet the specific needs of Columbus residents.",
+        "process": [
+          "Step 1: Schedule an electrical inspection with Reli Electric.",
+          "Step 2: Our electrician will conduct a thorough inspection of your electrical system.",
+          "Step 3: Receive a detailed report outlining our findings and recommendations.",
+          "Step 4: Address any identified issues with our expert repair services."
+        ],
+        "benefits": [
+          "Improved safety and reduced risk of electrical fires",
+          "Identification of potential hazards and code violations",
+          "Peace of mind knowing your electrical system is safe",
+          "Compliance with local codes and regulations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "It's recommended to have an electrical inspection every 3-5 years, or whenever you're buying a new home or renovating an existing one."
+          },
+          {
+            "question": "What does an electrical inspection include?",
+            "answer": "An electrical inspection includes a thorough examination of your wiring, outlets, switches, electrical panel, and other electrical components."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "The duration of the inspection depends on the size and complexity of your home, but it typically takes 2-4 hours."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Protect your home from power outages with a professionally installed generator.",
+        "description": "Columbus' unpredictable weather, from summer storms to icy winter conditions, can lead to power outages that disrupt your life. Reli Electric offers professional generator installation services to keep your home powered during emergencies. We can help you choose the right generator for your needs and install it safely and efficiently.\n\nWhether you're looking for a whole-house generator that automatically kicks on during an outage or a portable generator for occasional use, we have the expertise to handle the installation. We'll also ensure that your generator is properly connected to your electrical system and that it meets all local codes and regulations.\n\nReli Electric understands the importance of reliable power, especially during severe weather. Protect your family and your home with a generator installation from Columbus' trusted electrical contractor.",
+        "process": [
+          "Step 1: Assess your power needs and determine the appropriate generator size.",
+          "Step 2: Select a generator that meets your needs and budget.",
+          "Step 3: Install the generator and connect it to your electrical system.",
+          "Step 4: Test the generator to ensure it's working properly."
+        ],
+        "benefits": [
+          "Protection from power outages",
+          "Continuous power for essential appliances",
+          "Increased comfort and convenience",
+          "Peace of mind knowing your home is protected"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of the generator you need depends on the amount of power you want to supply during an outage. We can help you calculate your power needs and choose the right generator."
+          },
+          {
+            "question": "Do I need a permit for generator installation?",
+            "answer": "Yes, a permit is typically required for generator installation. We'll handle all the necessary paperwork and ensure that your project meets all local codes and regulations."
+          },
+          {
+            "question": "Can I install a generator myself?",
+            "answer": "No, generator installation is complex and potentially dangerous. It should only be performed by a licensed and qualified electrician."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Reli Electric is proud to serve the Dublin, Ohio community, providing top-notch electrical services to homeowners and businesses alike. We understand the unique needs of Dublin's upscale neighborhoods, many of which were developed in the 1980s and 2000s. From updating electrical panels to installing modern lighting solutions, our experienced electricians are equipped to handle any project, big or small.\n\nDublin's climate, with its cold, snowy winters, can be particularly harsh on electrical systems. Freeze-thaw cycles can cause damage to wiring and outdoor electrical components. Reli Electric offers comprehensive inspections and repairs to ensure your electrical system is safe and reliable, especially during the winter months. We are committed to providing prompt and professional service to the Dublin community.",
+        "localContext": "Our services are tailored to the needs of Dublin's residents, offering solutions for modern homes and addressing weather-related electrical issues common in the area.",
+        "nearbyAreas": [
+          "Powell",
+          "Worthington",
+          "Hilliard"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Reli Electric is dedicated to providing reliable electrical services to the Westerville, Ohio area. With its established suburbs primarily built in the 1970s and 80s, Westerville presents unique electrical challenges and opportunities. We specialize in upgrading older electrical systems to meet modern demands, ensuring safety and efficiency for your home or business.\n\nThe cold, snowy winters in Westerville can take a toll on electrical infrastructure. Reli Electric offers services to protect your property from freeze-thaw damage, including inspecting and repairing exposed wiring and outdoor outlets. We are committed to providing prompt, professional, and reliable electrical solutions to the Westerville community.",
+        "localContext": "We focus on the electrical needs of Westerville's mature neighborhoods, including upgrades and repairs to address the wear and tear of time and the impact of seasonal weather changes.",
+        "nearbyAreas": [
+          "Galena",
+          "Worthington",
+          "New Albany"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Reli Electric is a trusted provider of electrical services in Hilliard, Ohio. We understand the needs of Hilliard's family-oriented subdivisions, many of which were developed in the 1980s and 90s. Whether you need help with a new home theater installation, a kitchen remodel, or simply a safety inspection, our skilled electricians are here to help.\n\nHilliard experiences cold, snowy winters, which can lead to electrical problems due to freeze-thaw cycles. Reli Electric offers comprehensive services to protect your home from weather-related electrical issues. We are committed to providing reliable and affordable electrical solutions to the Hilliard community.",
+        "localContext": "Our services cater to the electrical needs of Hilliard's family homes, offering solutions for safety, convenience, and energy efficiency.",
+        "nearbyAreas": [
+          "Dublin",
+          "Plain City",
+          "Columbus"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Reli Electric proudly serves the Grove City, Ohio community, providing dependable electrical services to homeowners and businesses. With its many affordable homes built in the 1970s and 80s, Grove City offers a diverse range of electrical needs. We specialize in upgrading and maintaining electrical systems in older homes, ensuring safety and efficiency for your family.\n\nThe cold, snowy winters in Grove City can be tough on electrical systems. Reli Electric provides services to protect your home from freeze-thaw damage, including inspecting and repairing exposed wiring. We are committed to providing affordable and reliable electrical solutions to the Grove City community.",
+        "localContext": "Our services are tailored to the needs of Grove City's established homes, offering affordable solutions for upgrades, repairs, and maintenance.",
+        "nearbyAreas": [
+          "Orient",
+          "Columbus",
+          "Urbancrest"
+        ]
+      },
+      {
+        "city": "Columbus",
+        "slug": "columbus-oh",
+        "state": "OH",
+        "content": "Reli Electric is your trusted partner for all electrical needs in Columbus, Ohio. As the heart of Ohio, Columbus boasts a diverse range of homes and businesses, each with unique electrical requirements. From historic districts to modern developments, our experienced electricians are equipped to handle any project, big or small.\n\nColumbus experiences a range of weather conditions, including cold winters and hot summers. Reli Electric provides comprehensive services to ensure your electrical system is prepared for any season. We are committed to providing prompt, professional, and reliable electrical solutions to the Columbus community.",
+        "localContext": "We understand the diverse electrical needs of Columbus, offering tailored solutions for homes and businesses throughout the city.",
+        "nearbyAreas": [
+          "Dublin",
+          "Grove City",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Reli Electric is committed to providing top-quality electrical services to the residents and businesses of Powell, Ohio. Known for its beautiful homes and thriving community, Powell demands the best in electrical expertise. We offer a full range of services, from new construction wiring to electrical panel upgrades, ensuring your property is safe and efficient.\n\nThe seasonal changes in Powell, including cold winters, can impact electrical systems. Reli Electric provides inspections and repairs to address weather-related issues, ensuring your electrical system operates reliably year-round. We are dedicated to serving the Powell community with integrity and professionalism.",
+        "localContext": "Our services are tailored to the high standards of Powell's residents, offering solutions for modern homes and addressing the challenges of seasonal weather.",
+        "nearbyAreas": [
+          "Dublin",
+          "Delaware",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Reli Electric is proud to offer comprehensive electrical services to the city of Delaware, Ohio. As a growing community with a mix of historic homes and new developments, Delaware presents a variety of electrical needs. We specialize in both residential and commercial electrical work, ensuring the safety and efficiency of your property.\n\nDelaware's climate, with its cold winters and warm summers, can put a strain on electrical systems. Reli Electric offers services to protect your property from weather-related damage, including inspecting and repairing exposed wiring. We are committed to providing reliable and affordable electrical solutions to the Delaware community.",
+        "localContext": "Our services cater to the diverse electrical needs of Delaware, addressing the challenges of both older homes and new constructions.",
+        "nearbyAreas": [
+          "Powell",
+          "Sunbury",
+          "Lewis Center"
+        ]
+      },
+      {
+        "city": "Lewis Center",
+        "slug": "lewis-center-oh",
+        "state": "OH",
+        "content": "Reli Electric is dedicated to providing dependable electrical services to the community of Lewis Center, Ohio. Known for its residential growth and family-friendly atmosphere, Lewis Center requires expert electrical solutions for homes of all sizes. We offer a full range of services, from installing new lighting fixtures to troubleshooting electrical issues.\n\nThe Ohio climate, with its cold winters and warm summers, can affect electrical systems in Lewis Center. Reli Electric provides inspections and repairs to address any weather-related concerns, ensuring your electrical system is operating safely and efficiently. We are committed to serving the Lewis Center community with the highest level of professionalism.",
+        "localContext": "Our services are tailored to the growing residential needs of Lewis Center, offering solutions for new constructions and existing homes alike.",
+        "nearbyAreas": [
+          "Westerville",
+          "Polaris",
+          "Delaware"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Reli Electric upgraded our electrical panel in our older Clintonville home. They were professional, efficient, and explained everything clearly. We haven't had any issues since! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "Had a few outlets that weren't working in my Grove City house. Reli Electric came out quickly and fixed them without any problems. Good service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "Reli Electric installed recessed lighting in our kitchen. They did an amazing job! The new lighting really brightens up the space. Very happy with the results.",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Whole-House Rewiring",
+        "text": "We had Reli Electric rewire our entire house in German Village. It was a big job, but they were professional and courteous throughout the entire process. They took care to protect the original features of our home and completed the project on time and within budget. We highly recommend them!",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Generator Installation",
+        "text": "Reli Electric installed a whole-house generator for us. The installation was smooth and the generator works great. We feel much more secure knowing that we won't be without power during the next Columbus snowstorm.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Electrical Inspection",
+        "text": "We used Reli Electric to inspect a property we were considering buying. Their thorough inspection uncovered some potential electrical issues that we were able to address before closing. Their expertise saved us a lot of headaches down the road.",
+        "date": "2024-10-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Reli Electric | Columbus OH Electrician",
+        "description": "Reliable electrical services in Columbus, OH. Panel upgrades, rewiring, lighting, and more. Call today!"
+      },
+      "about": {
+        "title": "About Reli Electric | Columbus OH",
+        "description": "Learn about Reli Electric, your trusted electrical contractor in Columbus, Ohio. Quality service and local expertise."
+      },
+      "services": {
+        "title": "Reli Electric Services | Columbus OH",
+        "description": "Electrical services in Columbus, OH. Panel upgrades, rewiring, lighting, outlet repair, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Reli Electric | Columbus OH",
+        "description": "Contact Reli Electric for reliable electrical services in Columbus, Ohio. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Reli Electric Reviews | Columbus OH",
+        "description": "Read reviews for Reli Electric, your trusted electrical contractor in Columbus, Ohio. See what our customers are saying!"
+      },
+      "service-areas": {
+        "title": "Reli Electric Service Areas | Columbus OH",
+        "description": "Reliable electrical services in Columbus, OH and surrounding areas. Serving Dublin, Westerville, Hilliard, and Grove City."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "whole-house-rewiring": "/images/service-whole-house-rewiring.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp",
+      "generator-installation": "/images/service-generator-installation.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-rewiring": {
+        "src": "/images/service-whole-house-rewiring.webp",
+        "srcset": "/images/service-whole-house-rewiring-400w.webp 400w, /images/service-whole-house-rewiring-800w.webp 800w, /images/service-whole-house-rewiring-1200w.webp 1200w, /images/service-whole-house-rewiring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
